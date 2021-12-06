@@ -8,5 +8,9 @@
 </head>
 <body>
     <h1>Holla World!</h1>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+    </ul>
 </body>
 </html>
